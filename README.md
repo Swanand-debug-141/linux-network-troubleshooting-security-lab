@@ -150,6 +150,4 @@ Report saved to: reports/network-report-20261027_201500.txt
 - Add latency sampling and simple threshold alerts.
 - Include real sanitized screenshots and a completed troubleshooting case study.
 
-## Resume note
 
-After running the lab and adding your own tests, you can describe the work accurately as a Linux networking lab covering interface/routing checks, DNS resolution, socket inspection, SSH status, firewall review, and diagnostic report generation. Do not claim uptime improvements or measured incident reductions unless you have evidence.
