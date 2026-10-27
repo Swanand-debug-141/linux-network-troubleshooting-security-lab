@@ -1,0 +1,8 @@
+# Reports may contain host-specific details
+reports/network-report-*.txt
+
+# Local packet captures/logs
+*.pcap
+*.pcapng
+*.log
+.DS_Store
